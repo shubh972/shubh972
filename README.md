@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning ReactJs<br>🎯 Goals: To gain expertise in development in a Tech Giant</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning QEA Automation<br>🎯 Goals: To gain expertise in development in a Tech Giant</p>
 
 ###
 
